@@ -4,5 +4,5 @@
 Pathfinding Visualizer created with Python and Pygame. Uses the breadth first search algorithm.
 
 How to setup:
-  - Navigate to the directory in yout terminal
+  - Navigate to the directory in your terminal
   - Run the command ```pip install -r requirements.txt```
