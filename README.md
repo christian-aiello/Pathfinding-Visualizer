@@ -6,3 +6,8 @@ Pathfinding Visualizer created with Python and Pygame. Uses the breadth first se
 How to setup:
   - Navigate to the directory in your terminal
   - Run the command ```pip install -r requirements.txt```
+  
+ Controls
+  - Space to reset the board
+  - Draw walls and move start and end points using the mouse
+  - Press g to create a maze!
