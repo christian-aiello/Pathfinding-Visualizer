@@ -10,4 +10,4 @@ How to setup:
  Controls
   - Space to reset the board
   - Draw walls and move start and end points using the mouse
-  - Press g to create a maze!
+  - Press g to create a maze!test
